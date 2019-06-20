@@ -1,0 +1,23 @@
+{
+  "scope": "/",
+  "name": "EDACloud平台",
+  "short_name": "EDACloud平台",
+  "start_url": "/EDACloud",
+  "display": "standalone",
+  "description": "EDACloud平台",
+  "orientation": "portrait",
+  "theme_color": "#3f51b5",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "./NLogo.png",
+      "sizes": "46x44",
+      "type": "image/png"
+    },
+    {
+      "src": "./NLogo2.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
